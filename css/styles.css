@@ -57,14 +57,22 @@ nav span {
 
 /*main body styles*/
 #search {
+  margin:0;
+  padding-right:38px;
+  padding-left: 38px;
+  height: 36px;
   position: absolute;
   display: block;
   right: 10px;
   top:80px;
+  font-size: 30px;
 
 }
 
 #mainOrange {
+  display: block;
+  margin: 12px;
+  padding-left: 15px;
 
 }
 
